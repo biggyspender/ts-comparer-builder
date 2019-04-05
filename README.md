@@ -1,4 +1,8 @@
-# Multi-level sorting with Array.sort using ts-comparer-builder
+## Multi-level sort with ts-comparer-builder
+
+ts-comparer-builder is an easy way of creating multi-level comparer functions that can be used in `Array.sort`
+
+### Example
 
 Given a (very simple) Date type
 
